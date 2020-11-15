@@ -7,8 +7,8 @@ I am so skilled now 💪
 
 You can access to the website just below 👇
 
-(⊃｡•́‿•̀｡)⊃━☆ﾟ.*･｡ﾟ [Link for the website just here. Click stupid human !](ds)
+(⊃｡•́‿•̀｡)⊃━☆ﾟ.*･｡ﾟ [Link for the website just here. Click stupid human !](https://flavianeng.github.io/Just-a-reminder/)
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
-***Copyright :***
+***Copyright :*** <br>
 *Unicorn icon made by Freepik*
