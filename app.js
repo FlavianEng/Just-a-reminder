@@ -64,7 +64,7 @@ tl
     .fromTo(imgUnicorn, 1, { opacity: 0, x: '600%' }, { opacity: 1, x: '0%' });
 
 let scrollDownScene = new ScrollMagic.Scene({
-    duration: 8000,
+    duration: 4000,
     triggerElement: unicorn,
     triggerHook: 0
 })
